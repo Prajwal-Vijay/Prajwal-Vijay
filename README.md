@@ -5,5 +5,5 @@ Here's what ChatGPT had to say about me - A Driven student from the Indian Insti
 I am currently trying to learn as much as possible in this vast field of robotics and am looking for fun and interesting projects to collaborate on.
 
 Feel free to reach out to me at -  
-**Email** - [ee23b057@smail.iitm.ac.in](ee23b057@smail.iitm.ac.in)  
-**Linkedin** - [Prajwal Vijay](www.linkedin.com/in/prajwal-vijay-b43b4427b)
+**Email** - [ee23b057@smail.iitm.ac.in](mailto:ee23b057@smail.iitm.ac.in)  
+**Linkedin** - [Prajwal Vijay](https://www.linkedin.com/in/prajwal-vijay-b43b4427b)
