@@ -19,4 +19,4 @@ I'm Prajwal, a 2nd-year undergraduate at IIT Madras passionate about robotics an
 - LinkedIn: [Prajwal Vijay](https://www.linkedin.com/in/prajwal-vijay-b43b4427b/)
 - GitHub: You're here!
 
-![Python](https://img.shields.io/badge/Python-3.8-blue) ![ROS](https://img.shields.io/badge/ROS-Noetic-green) ![Machine Learning](https://img.shields.io/badge/ML-XGBoost-orange)
+![Python](https://img.shields.io/badge/Python-3.12-blue) ![ROS](https://img.shields.io/badge/ROS2-Humble-green) ![Machine Learning](#)
