@@ -7,6 +7,9 @@ I'm Prajwal, a 3rd-year undergraduate at IIT Madras passionate about robotics an
 - **Tools/Frameworks**: ROS, Gazebo, OpenCV, NumPy, Matplotlib, XGBoost, Optuna
 - **Areas of Interest**: Multi-Agent Systems, Robot Learning, Reachability Analysis, Motion Planning, Predictive Modeling
 
+## A cool demo of my project
+[Screencast from 2025-09-18 16-13-00.webm](https://github.com/user-attachments/assets/1334d0a8-040c-4379-8ce5-7cc6c820cb20)
+
 ## 📫 Contact
 - Email: ee23b057@smail.iitm.ac.in
 - LinkedIn: [Prajwal Vijay](https://www.linkedin.com/in/prajwal-vijay-b43b4427b/)
