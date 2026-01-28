@@ -1,6 +1,6 @@
 # Hi, I'm Prajwal Vijay! 👋
 
-I'm Prajwal, a 3rd-year undergraduate at IIT Madras passionate about robotics and AI. I have worked on differential games, path planning, and control systems, with hands-on experience in Python, ROS, and simulation tools like Maniskill, Gazebo. Currently I am exploring Reinforcement Learning, Robot Learning and Multi-Agent Systems. I’m eager to contribute to cutting-edge robotics research through internships and collaborative projects.
+I'm Prajwal, a 3rd-year undergraduate at IIT Madras passionate about robotics and AI. I have worked on robot learning, motion planning, differential games, and control systems, with hands-on experience in Python, ROS, and simulation tools like Maniskill, Gazebo. Currently I am exploring Reinforcement Learning, Robot Learning and Multi-Agent Systems. I’m eager to contribute to cutting-edge robotics research through internships and collaborative projects.
 
 ## 🔧 Skills
 - **Languages**: Python, JavaScript, C++
