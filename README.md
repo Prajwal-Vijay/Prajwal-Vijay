@@ -8,7 +8,8 @@ I'm Prajwal, a 3rd-year undergraduate at IIT Madras passionate about robotics an
 - **Areas of Interest**: Multi-Agent Systems, Robot Learning, Reachability Analysis, Motion Planning, Reinforcement Learning
 
 ## 📫 Contact
-- Email: ee23b057@smail.iitm.ac.in
-- LinkedIn: [Prajwal Vijay](https://www.linkedin.com/in/prajwal-vijay-b43b4427b/)
+- [Email](ee23b057@smail.iitm.ac.in)
+- [LinkedIn](https://www.linkedin.com/in/prajwal-vijay-b43b4427b/)
 - GitHub: You're here!
+- [Portfolio](prajwal-vijay.github.io)
 
