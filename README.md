@@ -11,5 +11,5 @@ I'm Prajwal, a 3rd-year undergraduate at IIT Madras passionate about robotics an
 - [Email](ee23b057@smail.iitm.ac.in)
 - [LinkedIn](https://www.linkedin.com/in/prajwal-vijay-b43b4427b/)
 - GitHub: You're here!
-- [Portfolio](prajwal-vijay.github.io)
+- [Portfolio](https://prajwal-vijay.github.io/)
 
